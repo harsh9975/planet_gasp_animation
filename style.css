@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    font-family: "Roboto";
+    font-family: 'Roboto', sans-serif;
     list-style: none;
     box-sizing: border-box;
     background: #000;
@@ -19,7 +19,7 @@ nav{
     padding: 10px 30px;
 }
 
-logo{
+.logo{
     color: #fff;
     font-weight: 600;
     font-size: 16px;
